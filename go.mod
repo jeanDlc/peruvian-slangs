@@ -1,3 +1,3 @@
-module peruvian-slangs
+module peruvianslangs
 
 go 1.18
